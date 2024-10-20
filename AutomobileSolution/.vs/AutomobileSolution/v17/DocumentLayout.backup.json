@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilelibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilelibrary\\automobilelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\automobilelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilewpfapp\\automobilewpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|solutionrelative:automobilewpfapp\\automobilewpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilelibrary\\dataaccess\\mystockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\dataaccess\\mystockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilelibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilewpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|solutionrelative:automobilewpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilewpfapp\\windowcarmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|solutionrelative:automobilewpfapp\\windowcarmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilelibrary\\dataaccess\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\dataaccess\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilewpfapp\\windowcarmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|solutionrelative:automobilewpfapp\\windowcarmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilelibrary\\dataaccess\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237203CF-C9AD-4511-A61E-485324C81757}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\dataaccess\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilewpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|solutionrelative:automobilewpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|d:\\csharp\\fpt code\\prn221\\labs\\lab1\\automobilesolution\\automobilewpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8770A2C9-D4DF-4C38-B99F-1F384450213A}|AutomobileWPFApp\\AutomobileWPFApp.csproj|solutionrelative:automobilewpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomobileLibrary.csproj",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\AutomobileLibrary.csproj",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+              "RelativeToolTip": "AutomobileLibrary\\AutomobileLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T13:48:49.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\Repository\\CarRepository.cs",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "AutomobileLibrary\\Repository\\CarRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:41:33.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStockContext.cs",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "RelativeToolTip": "AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:53:23.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AutomobileWPFApp\\appsettings.json",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\appsettings.json",
+              "RelativeToolTip": "AutomobileWPFApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T16:48:08.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutomobileWPFApp.csproj",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\AutomobileWPFApp.csproj",
+              "RelativeDocumentMoniker": "AutomobileWPFApp\\AutomobileWPFApp.csproj",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\AutomobileWPFApp.csproj",
+              "RelativeToolTip": "AutomobileWPFApp\\AutomobileWPFApp.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T16:43:23.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "RelativeToolTip": "AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:42:24.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowCarManagement.xaml.cs",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\WindowCarManagement.xaml.cs",
+              "RelativeDocumentMoniker": "AutomobileWPFApp\\WindowCarManagement.xaml.cs",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\WindowCarManagement.xaml.cs",
+              "RelativeToolTip": "AutomobileWPFApp\\WindowCarManagement.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:46:48.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\DataAccess\\Car.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\DataAccess\\Car.cs",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\DataAccess\\Car.cs",
+              "RelativeToolTip": "AutomobileLibrary\\DataAccess\\Car.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:57:12.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WindowCarManagement.xaml",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\WindowCarManagement.xaml",
+              "RelativeDocumentMoniker": "AutomobileWPFApp\\WindowCarManagement.xaml",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\WindowCarManagement.xaml",
+              "RelativeToolTip": "AutomobileWPFApp\\WindowCarManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T16:45:46.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarManagement.cs",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\DataAccess\\CarManagement.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\DataAccess\\CarManagement.cs",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileLibrary\\DataAccess\\CarManagement.cs",
+              "RelativeToolTip": "AutomobileLibrary\\DataAccess\\CarManagement.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:39:32.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "AutomobileWPFApp\\App.xaml",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\App.xaml",
+              "RelativeToolTip": "AutomobileWPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T16:43:26.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AutomobileWPFApp\\App.xaml.cs",
+              "ToolTip": "D:\\CSharp\\FPT Code\\PRN221\\Labs\\Lab1\\AutomobileSolution\\AutomobileWPFApp\\App.xaml.cs",
+              "RelativeToolTip": "AutomobileWPFApp\\App.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:43:15.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

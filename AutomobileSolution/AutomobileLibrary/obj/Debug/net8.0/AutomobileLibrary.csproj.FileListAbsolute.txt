@@ -1,0 +1,14 @@
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.deps.json
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.runtimeconfig.json
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.dll
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.pdb
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfo.cs
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.dll
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrary.dll
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.genruntimeconfig.cache
+D:\CSharp\FPT Code\PRN221\Labs\Lab1\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll
